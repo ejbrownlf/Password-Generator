@@ -1,4 +1,4 @@
-# Password-Generator
+# [Password-Generator](https://ejbrownlf.github.io/Password-Generator/)
 
 ## This website will create a random password for users:
 
